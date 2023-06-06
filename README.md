@@ -64,6 +64,8 @@
     <a href="https://github.com/uWayLu"  style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/21689326" width="64px;" alt="uWayLu"/><br/><sub><b>uWayLu</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=uWayLu" title="uWayLu" >🔧 🐛</a>
   </td>
     
+    
+    
   <td align="center">
     <a href="https://github.com/txs" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/554329" width="64px;" alt="txs"/><br/><sub><b>txs</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=txs" title="txs" >🔧 🐛</a>
   </td>
